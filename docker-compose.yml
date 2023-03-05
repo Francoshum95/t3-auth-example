@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  mongodb_totp_container:
+    image: mongo:4.4.6
+    ports:
+      - 27018:27017
+    volumes:
+      - mongodb_data_container:/data/db
+      - ./mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+    environment:
+        MONGODB_USER: root
+        MONGODB_DATABASE: root-db
+        MONGODB_PASS: password
+volumes:
+  mongodb_data_container:
