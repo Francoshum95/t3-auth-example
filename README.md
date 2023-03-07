@@ -9,7 +9,7 @@ This repo was created with [create-t3-app](https://github.com/t3-oss/create-t3-a
 - Prisma
 
 
-And a domo code of tutorial:  
+The repository includes a demo code for the following tutorial:
 
 - Building a t3-app : A Step-by-Step Guide to NextAuth : [full tutorial](https://dev.to/franco00000/step-by-step-guide-to-building-a-totp-feature-with-nextjs-1cbh?preview=82516a0511343c037c8bcb5a221ba46860580129392a8742dcd1a47c80a1f5bbc6d6d769afc9010c70ef57b6bd17a95577024d3ee7884f88ce587e46)
 
