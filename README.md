@@ -11,7 +11,7 @@ This repo was created with [create-t3-app](https://github.com/t3-oss/create-t3-a
 
 The repository includes a demo code for the following tutorial:
 
-- Building a t3-app : A Step-by-Step Guide to NextAuth : [full tutorial](https://dev.to/franco00000/step-by-step-guide-to-building-a-totp-feature-with-nextjs-1cbh)
+- Building a t3-app : A Step-by-Step Guide to NextAuth : [full tutorial](https://dev.to/franco00000/building-a-t3-app-a-step-by-step-guide-to-nextauth-pea)
 
 
 ## Setup
